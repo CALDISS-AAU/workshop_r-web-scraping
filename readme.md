@@ -1,6 +1,6 @@
 # Content: Web Scraping with R
 
-
+This repository contains teaching materials used for the CALDISS workshop: "Web Scraping with R".
 
 - What is web scraping?
   - Why web scraping?
